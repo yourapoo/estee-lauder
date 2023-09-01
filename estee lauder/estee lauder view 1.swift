@@ -82,8 +82,8 @@ struct estee_lauder_view_1: View {
                                         
                                     }
                                     
-                                    
-                                    
+                                
+                                
                                     
                                     
                                 }
